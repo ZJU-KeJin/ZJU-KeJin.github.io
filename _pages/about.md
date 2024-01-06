@@ -23,8 +23,7 @@ My research interest lies in 3D computer vision, particularly in semantic segmen
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.10*: &nbsp;🎉🎉 I have been admitted to the PerPLe laboratory of the School of Control, Zhejiang University.
 
 # 📝 Publications 
 
