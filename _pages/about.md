@@ -19,7 +19,7 @@ redirect_from:
 
 Welcome! My name is Jin Ke, and I am currently a fourth-year undergraduate student at Nanjing Southeast University. I will study for a PhD under the guidance of Dr. Qi Ye in the PerPLe Laboratory of the School of Control, Zhejiang University from 2024 to 2029.
 
-My research interest lies in 3D computer vision. .
+My research interest lies in 3D computer vision, particularly in semantic segmentation, correspondence learning and NeRF.
 
 
 # 🔥 News
