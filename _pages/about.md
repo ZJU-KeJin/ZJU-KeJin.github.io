@@ -28,7 +28,7 @@ The current research interest of Ke Jin lies in 3D computer vision, particularly
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">PRCV 2023</div><img src='images/CLIP for Lightweight Semantic Segmentation.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[<style="font-size: 1px;">CLIP for Lightweight Semantic Segmentation](https://link.springer.com/chapter/10.1007/978-981-99-8549-4_27)
+[<span style="font-size: 24px;">CLIP for Lightweight Semantic Segmentation</span>](https://link.springer.com/chapter/10.1007/978-981-99-8549-4_27)
 
 **Ke Jin**, Wankou Yang
 
