@@ -16,12 +16,12 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-Ke Jin is a first-year PhD student in the College of Control Science &amp; Engineering at Zhejiang University in Hangzhou, China, under the supervision of Dr. [Qi Ye](https://perple-zju.github.io/). He obtained his Bachelor’s degree from Southeast University in 2024.
+Ke Jin is a first-year PhD student in the College of Control Science and Engineering at Zhejiang University in Hangzhou, China, under the supervision of Dr. [Qi Ye](https://perple-zju.github.io/). He obtained his Bachelor’s degree from Southeast University in 2024.
 
 The current research interest of Ke Jin lies in 3D computer vision, particularly in correspondence learning, pose estimation, novel view synthesis and 3D reconstruction.
 
 # 🔥 News
-- *2023.10*: &nbsp;🎉🎉 I have been admitted to the College of Control Science &amp; Engineering, Zhejiang University.
+- *2023.10*: &nbsp;🎉🎉 I have been admitted to the College of Control Science and Engineering, Zhejiang University.
 
 # 📝 Publications 
 
@@ -41,7 +41,7 @@ The current research interest of Ke Jin lies in 3D computer vision, particularly
 
 # 📖 Educations
 - *2020.10 - 2024.6* Bachelor of Science, College of Automation, Southeast University.
-- *2024.9 - Current* Ph.D Student,  College of Control Science &amp; Engineering, Zhejiang University.
+- *2024.9 - Current* Ph.D Student, College of Control Science and Engineering, Zhejiang University.
 
 # 💻 Internships
 
