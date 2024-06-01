@@ -16,7 +16,8 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-Ke Jin is a first-year PhD student in the College of Information Science & Electronic Engineering at Zhejiang University in Hangzhou, China, under the supervision of Dr. [Qi Ye](https://perple-zju.github.io/). He obtained his Bachelor’s degree from Southeast University in 2024.
+Ke Jin is a first-year PhD student in the College of Information Science &amp Electronic Engineering at Zhejiang University in Hangzhou, China, under the supervision of Dr. [Qi Ye](https://perple-zju.github.io/). He obtained his Bachelor’s degree from Southeast University in 2024.
+
 The current research interest of Ke Jin lies in 3D computer vision, particularly in correspondence learning, pose estimation, novel view synthesis and 3D reconstruction.
 
 # 🔥 News
