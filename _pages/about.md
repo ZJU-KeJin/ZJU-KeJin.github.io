@@ -33,7 +33,6 @@ The current research interest of Ke Jin lies in 3D computer vision, particularly
 **Ke Jin**, Wankou Yang
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kT99gQQAAAAJ&citation_for_view=kT99gQQAAAAJ:d1gkVwhDpl0C) <strong><span class='show_paper_citations' data='kT99gQQAAAAJ:d1gkVwhDpl0C'></span></strong>
-<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - A feature fusion module is proposed to make language-guided lightweight semantic segmentation practical.
 
 </div>
