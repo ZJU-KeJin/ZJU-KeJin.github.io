@@ -16,11 +16,8 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-
-Welcome! My name is Jin Ke, and I am currently a fourth-year undergraduate student at Southeast University. I will study for a PhD under the guidance of Dr. Qi Ye in the PerPLe Laboratory of the School of Control, Zhejiang University from 2024 to 2029.
-
-My research interest lies in 3D computer vision, particularly in semantic segmentation, correspondence learning and NeRF.
-
+Ke Jin is a first-year PhD student in the College of Information Science & Electronic Engineering at Zhejiang University in Hangzhou, China, under the supervision of Dr. [Qi Ye](https://perple-zju.github.io/). He obtained his Bachelor’s degree from Southeast University in 2024.
+The current research interest of Ke Jin lies in 3D computer vision, particularly in correspondence learning, pose estimation, novel view synthesis and 3D reconstruction.
 
 # 🔥 News
 - *2023.10*: &nbsp;🎉🎉 I have been admitted to the PerPLe laboratory of the School of Control, Zhejiang University.
