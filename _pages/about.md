@@ -40,7 +40,8 @@ The current research interest of Ke Jin lies in 3D computer vision, particularly
 - *2022.5* Outstanding Winner of MCM(The Mathematical Contest in Modeling) in 2022
 
 # 📖 Educations
-- *2020.10 - now*, Studying for a bachelor's degree at the School of Automation, Southeast University, Nanjing
+- *2020.10 - 2024.6* Bachelor of Science, College of Automation, Southeast University.
+- *2024.9 - Current* Ph.D Student,  College of Control Science &amp; Engineering, Zhejiang University.
 
 # 💻 Internships
 
